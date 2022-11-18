@@ -1,5 +1,5 @@
 
 hello git! merge
 hello vim! merge
-hello branch!
+hello branch! pull
 
